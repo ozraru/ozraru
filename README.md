@@ -58,7 +58,7 @@
             "protocol": "ActivityPub",
             "implementation": "Misskey",
             "id": "@ozraru@key.tpc3.org"
-        }
+        },
         {
             "protocol": "SMTP",
             "implementation": "Cloudflare Email Routing",
